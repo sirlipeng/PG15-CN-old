@@ -8,13 +8,13 @@ PostgreSQL官方手册是PostgreSQL非常重要的学习和参考资料。本项
 本项目得到了山东大学的大力支持。
 
 ## Github托管仓库
-https://github.com/postgres-cn/pgdoc-cn
+https://github.com/sirlipeng/PG15-CN
 
 本Github仓库存放已翻译好的sgml文件，通过这些sgml文件可编译成html和pdf等各种格式的文档。
 本Github仓库接受对已翻译好的文档的质量改善，欢迎读者的反馈和修正（通过Issues和Pull requests）。
 
 ## 翻译管理
-https://github.com/postgres-cn/pgdoc-cn/wiki
+https://github.com/sirlipeng/PG15-CN/wiki
 
 ## 文档的编译
 
